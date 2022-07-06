@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FYP/static/css/main.fa5b3062.chunk.css",
+    "main.js": "/FYP/static/js/main.89e8c826.chunk.js",
+    "main.js.map": "/FYP/static/js/main.89e8c826.chunk.js.map",
+    "runtime-main.js": "/FYP/static/js/runtime-main.64e698c7.js",
+    "runtime-main.js.map": "/FYP/static/js/runtime-main.64e698c7.js.map",
+    "static/css/2.18fb2ca0.chunk.css": "/FYP/static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.f343a1f0.chunk.js": "/FYP/static/js/2.f343a1f0.chunk.js",
+    "static/js/2.f343a1f0.chunk.js.map": "/FYP/static/js/2.f343a1f0.chunk.js.map",
+    "index.html": "/FYP/index.html",
+    "precache-manifest.9c99667483b8845558490750bed3f05c.js": "/FYP/precache-manifest.9c99667483b8845558490750bed3f05c.js",
+    "service-worker.js": "/FYP/service-worker.js",
+    "static/css/2.18fb2ca0.chunk.css.map": "/FYP/static/css/2.18fb2ca0.chunk.css.map",
+    "static/css/main.fa5b3062.chunk.css.map": "/FYP/static/css/main.fa5b3062.chunk.css.map",
+    "static/js/2.f343a1f0.chunk.js.LICENSE.txt": "/FYP/static/js/2.f343a1f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64e698c7.js",
+    "static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.f343a1f0.chunk.js",
+    "static/css/main.fa5b3062.chunk.css",
+    "static/js/main.89e8c826.chunk.js"
+  ]
+}
